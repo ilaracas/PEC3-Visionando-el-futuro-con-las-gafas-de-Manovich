@@ -31,12 +31,12 @@ Space Jam, es una película de comedia deportiva animada/*live action* (Se utili
 
 ¿Qué tipo de hibridación encontramos Space Jam? Se centra en nuevas formas de crear películas, a través de la mezcla de medios. Para ello utiliza medios existentes, como las películas digitales y de la misma forma, las películas de animación, obteniendo como resultado un nuevo tipo de representación híbrida.
 
-~~~
 
-La hibridación una fusión entre elementos que comparten técnicas de software e interfaces generando una experiencia nueva 
+
+*> La hibridación una fusión entre elementos que comparten técnicas de software e interfaces generando una experiencia nueva 
 y coherente, diferente a la experimentación de los elementos por separado - (Adell, 2014)
+> *
 
-~~~
 
 De igual forma, en el año 2021, se creo una secuela de esta, llamada ahora, *Space Jam: A New Legacy*, donde esta vez, tenemos una hibridación de *live action* y animación 3D.
 
