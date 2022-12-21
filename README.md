@@ -40,7 +40,9 @@ Siguiendo con el ejemplo del periódico digital, como resultado seguimos obtenie
 
 Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a centrarnos en los casos de estudio que he mencionado en la introducción.
 ## CASOS DE ESTUDIO
+Space jam.
 
+*Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 - Elemento 1
 - Elemento 2
