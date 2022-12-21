@@ -9,16 +9,15 @@
 ## INTRODUCCIÓN
 Después de haber estudiado detenidamente el libro *“El software toma el mando”* de Lev Manovich, en esta PEC03, tenemos como objetivo la realización de un ensayo sobre dos casos de hibridación de software moderna que no hayan sido comentados en el libro de Manovich.
 
-En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de imagen y video, en este caso, se hablará de una en concreto que realiza una captura de un video, y asi crea un dibujado basado en la captura.
+En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de imagen y video, en este caso, se hablará de una en concreto que realiza una captura de un video, y asi crea un dibujo basado en la captura.
 
-
-
-### Que es la hibridación?
+### ¿Qué es la hibridación?
 En primer lugar vamos a explicar que es la hibridación de los medios, para si poder entender adecuadamente el porqué vamos a ver a través de las “gafas de Manovich”.
+
+La hibridación, según Manovich, es el desarrollo y la implementación de los medios existentes que combina características de uno y otro para crear algo nuevo que no existía previamente, lo cual ha servido para entremezclar medios como la música, vídeo, datos, sonido, sensores, fotografía, animación dando lugar al fenómeno de la hibridación.
 
 En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
 
-Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el "Medio ordenador" como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
 
 Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
 
@@ -45,6 +44,10 @@ Siguiendo con el ejemplo del periódico digital, como resultado seguimos obtenie
 Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a centrarnos en los casos de estudio que he mencionado en la introducción.
 ## CASOS DE ESTUDIO
 Space jam.
+
+AI's tiktok
+
+En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
 
 *Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
