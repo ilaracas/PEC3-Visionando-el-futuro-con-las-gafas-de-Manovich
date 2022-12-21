@@ -12,7 +12,7 @@ Después de haber estudiado detenidamente el libro *“El software toma el mando
 En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de imagen y video, en este caso, se hablará de una en concreto que realiza una captura de un video, y asi crea un dibujo basado en la captura.
 
 ### ¿Qué es la hibridación?
-En primer lugar vamos a explicar que es la hibridación de los medios, para si poder entender adecuadamente el porqué vamos a ver a través de las “gafas de Manovich”.
+En primer lugar vamos a explicar que es la hibridación de los medios, para si poder entender adecuadamente el porqué vamos "visionar el futuro a través de las gafas de Manovich”.
 
 La hibridación, según Manovich, es el desarrollo y la implementación de los medios existentes que combina características de uno y otro para crear algo nuevo que no existía previamente, lo cual ha servido para entremezclar medios como la música, vídeo, datos, sonido, sensores, fotografía, animación dando lugar al fenómeno de la hibridación.
 
