@@ -16,34 +16,16 @@ En primer lugar vamos a explicar que es la hibridación de los medios, para si p
 
 La hibridación, según Manovich, es el desarrollo y la implementación de los medios existentes que combina características de uno y otro para crear algo nuevo que no existía previamente, lo cual ha servido para entremezclar medios como la música, vídeo, datos, sonido, sensores, fotografía, animación dando lugar al fenómeno de la hibridación.
 
-En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
-
-
-Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
-
-Y son un ejemplo de cada uno de esos tipos los que voy a a tratar en este artículo, tratando de analizarlos tal y como lo habría hecho Manovich en su libro "El Software toma el Mando.
-
-
-
-Antes de meternos de lleno en el análisis de los casos escogidos lo mejor será exponer qué es eso de la hibridación de los medios, de otro modo, será más complicado que podamos ver las cosas a través de las “gafas de Manovich”.
-
-Dice Ferran Adell que en “la hibridación […] se da una fusión entre los elementos que comparten las técnicas de software y las interfaces generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado.”
-
-En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
+Esta hibridación puede cambiar tanto a como se muestran los datos a la interactividad del propio medio. De esta forma, debido a la hibridación existen softwares que hibridan datos: mezclando el video con la animación, imágenes con textos, o incluso genera imagenes debido a textos o palabras que ha introducido el usuario previamente, entre muchos otros que aun quedan por descubrir...
 
 “En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.” Manovich, El Software toma el mando.
 
-Es común confundir los términos hibridación y multimedia, pero con un sencillo ejemplo es probable que veamos todo mucho más claro. Pensemos en la prensa tradicional y en cómo esos periódicos estaban compuestos por textos e imágenes sobre un soporte de papel. Si ahora nos llevamos ese mismo periódico a una versión web, vemos que está formado también por textos e imágenes, pero se le han añadido vídeos y sonidos de forma que la experiencia es mucho más enriquecedora.
+Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos comenzar con los dos casos de hibridación mencionados en la introducción.
 
-“En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional” Adell 2004.
 
-Siguiendo con el ejemplo del periódico digital, como resultado seguimos obteniendo las mismas noticias solo que en un formato multimedia en el que cada medio continúa teniendo sus propios controles. En palabras de Manovich, “La palabra «multimedia» supo reflejar el fenómeno de la confluencia de contenidos procedentes de distintos medios, pero no así sus lenguajes.”
-
-“En resumen, la «softwarización» de los medios anteriores no conllevó su convergencia», sino que una vez los formatos de representación, las técnicas de creación de contenido y las interfaces de acceso fueron disociados de sus bases físicas y traducidos a software, estos elementos empezaron a interrelacionarse y produjeron nuevos híbridos.” Manovich, El Software toma el mando.
-
-Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a centrarnos en los casos de estudio que he mencionado en la introducción.
 ## CASOS DE ESTUDIO
-Space jam.
+
+### Space jam.
 
 AI's tiktok
 
