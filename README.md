@@ -1,5 +1,11 @@
 # PEC3 Visionando el futuro con las gafas de Manovich
-Recurso de aprendizaje de Cultura Digital
+
+**Recurso de aprendizaje de Cultura Digital**
+
+**Autora**: Isabel Lara Castillo.
+
+**Fecha**: 20/12/2022
+
 ## Planteamiento
 El objetivo de este ejercicio es realizar un ensayo sobre dos casos de hibridación moderna, que no hayan sido comentados en el libro de Manovich. En este repositorio este ensayo pertenecera a los dos siguientes ejemplos:
 - Space Jam
