@@ -29,7 +29,6 @@ Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos 
 
 Space Jam, es una película de comedia deportiva animada/*live action* (Se utiliza para referirse a obras en las que la imagen ha sido obtenida mediante la filmación directa de actores o elementos reales), en la cual una versión ficticia de Michel Jordanes reclutado por los personajes de Looney Tunes donde estos lo reclutan para ayudarlos en un partido de baloncesto contra los visitantes extraterrestres que intentan esclavizarlos como atracciones para su parque de atracciones.
 
-!(https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0117705%2F&psig=AOvVaw0SLMAwuyvP4qHTnByLQpbk&ust=1671740877586000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCi1pvGi_wCFQAAAAAdAAAAABAS)
 
 ¿Qué tipo de hibridación encontramos Space Jam? Se centra en nuevas formas de crear películas, a través de la mezcla de medios. Para ello utiliza medios existentes, como las películas digitales y de la misma forma, las películas de animación, obteniendo como resultado un nuevo tipo de representación híbrida.
 
@@ -44,20 +43,14 @@ De igual forma, en el año 2021, se creo una secuela de esta, llamada ahora, *Sp
 
 Si no has visto esta película (cosa que me hace pensar que eres un extraterreste) te animo a que le des un intento, ya que es una película muy divertida, y que cuando la estrenaron (1996) fué un gran boom para la historia cinematografíca, no solo por la misma hibridación, sino que fue la primera película que produjo Warner Bros...
 
-AI's tiktok
+### AI's de Tiktok
 
-En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
+Para mayor contexto, Tiktok es una aplicación donde se pueden grabar videos o insertar imagénes los cuales tienen musica o voz insertada. Está aplicación es bastante usada por los jóvenes en la actualidad, y hace unas semanas hay un filtro bastante popular donde a través de un video, la propia aplicación crea una captura de este y creará basandose en la captura un dibujo.
 
-*Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
-- Elemento 2
-- Elemento 3
-Este es un ejemplo de texto que da entrada a una lista numerada:
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+Está inteligencia artificial es capaz de crear un dibujo a traves de la captura de un video
+
+> *Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
+> 
 
 ## Bibliografia:
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
