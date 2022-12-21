@@ -30,7 +30,8 @@ Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos 
 Space Jam, es una película de comedia deportiva animada/*live action* (Se utiliza para referirse a obras en las que la imagen ha sido obtenida mediante la filmación directa de actores o elementos reales), en la cual una versión ficticia de Michel Jordanes reclutado por los personajes de Looney Tunes donde estos lo reclutan para ayudarlos en un partido de baloncesto contra los visitantes extraterrestres que intentan esclavizarlos como atracciones para su parque de atracciones.
 
 ¿Qué tipo de hibridación encontramos Space Jam? Se centra en nuevas formas de crear películas, a través de la mezcla de medios. Para ello utiliza medios existentes, como las películas digitales y de la misma forma, las películas de animación, obteniendo como resultado un nuevo tipo de representación híbrida.
-~~~ La hidridación una fusión entre elementos que comparten técnicas de software e interfaces generando una experiencia nueva y coherente, diferente a la experimentación de los elementos por separado - (Adell, 2014)~~~
+
+~~~ La hidridación una fusión entre elementos que comparten técnicas de software e interfaces generando una experiencia nueva y coherente, diferente a la experimentación de los elementos por separado - (Adell, 2014) ~~~
 
 De igual forma, en el año 2021, se creo una secuela de esta, llamada ahora, *Space Jam: A New Legacy*, donde esta vez, tenemos una hibridación de *live action* y animación 3D.
 
