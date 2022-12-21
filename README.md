@@ -27,6 +27,7 @@ Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos 
 
 ### Space jam.
 
+Space Jam, es una película de comedia animada/*live action* (
 AI's tiktok
 
 En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
@@ -42,6 +43,9 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 3. Elemento 3
 Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
 
-bibliografia:
+## Bibliografia:
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
-https://en.wikipedia.org/wiki/Space_Jam
+- Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia, Universitat Oberta de Catalunya. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
+- Wikipedia, 2022. Space Jam. [consulta: 19 diciembre 2022]. Disponible en:https://en.wikipedia.org/wiki/Space_Jam
