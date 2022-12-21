@@ -6,10 +6,12 @@
 
 **Fecha**: 20/12/2022
 
-## Planteamiento
-El objetivo de este ejercicio es realizar un ensayo sobre dos casos de hibridación moderna, que no hayan sido comentados en el libro de Manovich. En este repositorio este ensayo pertenecera a los dos siguientes ejemplos:
-- Space Jam
-- Black mirror
+## INTRODUCCIÓN
+Después de haber estudiado detenidamente el libro *“El software toma el mando”* de Lev Manovich, en esta PEC03, tenemos como objetivo la realización de un ensayo sobre dos casos de hibridación de software moderna que no hayan sido comentados en el libro de Manovich.
+
+En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de imagen y video, en este caso, se hablará de una en concreto que realiza una captura de un video, y asi crea un dibujado basado en la captura.
+
+
 
 ### Que es la hibridación?
 Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el "Medio ordenador" como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
