@@ -31,10 +31,10 @@ Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos 
 
 ### Space jam.
 
-Space Jam, es una película de comedia deportiva animada/*live action* (Se utiliza para referirse a obras en las que la imagen ha sido obtenida mediante la filmación directa de actores o elementos reales), en la cual una versión ficticia de Michel Jordanes reclutado por los personajes de Looney Tunes donde estos lo reclutan para ayudarlos en un partido de baloncesto contra los visitantes extraterrestres que intentan esclavizarlos como atracciones para su parque de atracciones.
+Space Jam, es una película de comedia deportiva animada/*live action* (Se utiliza para referirse a obras en las que la imagen ha sido obtenida mediante la filmación directa de actores o elementos reales), en la cual una versión ficticia de Michel Jordan es reclutado por los personajes de Looney Tunes donde estos lo reclutan para ayudarlos en un partido de baloncesto contra los visitantes extraterrestres que intentan esclavizarlos como atracciones para su parque de atracciones.
 
 
-¿Qué tipo de hibridación encontramos Space Jam? Se centra en nuevas formas de crear películas, a través de la mezcla de medios. Para ello utiliza medios existentes, como las películas digitales y de la misma forma, las películas de animación, obteniendo como resultado un nuevo tipo de representación híbrida.
+¿Qué tipo de hibridación encontramos en Space Jam? Se centra en nuevas formas de crear películas, a través de la mezcla de medios. Para ello utiliza medios existentes, como las películas digitales y de la misma forma, las películas de animación, obteniendo como resultado un nuevo tipo de representación híbrida.
 
 
 
