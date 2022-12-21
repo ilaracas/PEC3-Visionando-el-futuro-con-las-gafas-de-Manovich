@@ -56,7 +56,8 @@ Está inteligencia artificial es capaz de crear un dibujo a traves de la captura
 > *Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
 > 
 
-Es un proyecto de IA de OpenIA (compañía situada en San Francisco), toma nombre de salvador Dalí y Wall.E (robot de Pixar). Empresa también creadora de GPT3, un modelo de lenguaje autorregresivo que emplea aprendizaje profundo para producir textos que simulan la redacción humana. Esta IA combina el lenguaje natural con el entrenamiento de las imágenes para crear algo totalmente nuevo. DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
+Esta IA combina la captura y el estudio de estas para crear dibujos todalmente nuevos. Esta cuenta con la creación de imágenes nuevas a partir de capturas de un video.
+
 
 ## Bibliografia:
 
