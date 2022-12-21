@@ -7,18 +7,22 @@
 **Fecha**: 20/12/2022
 
 ## INTRODUCCIÓN
+
 Después de haber estudiado detenidamente el libro *“El software toma el mando”* de Lev Manovich, en esta PEC03, tenemos como objetivo la realización de un ensayo sobre dos casos de hibridación de software moderna que no hayan sido comentados en el libro de Manovich.
 
 En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de imagen y video, en este caso, se hablará de una en concreto que realiza una captura de un video, y asi crea un dibujo basado en la captura.
 
 ### ¿Qué es la hibridación?
+
 En primer lugar vamos a explicar que es la hibridación de los medios, para si poder entender adecuadamente el porqué vamos "visionar el futuro a través de las gafas de Manovich”.
 
 La hibridación, según Manovich, es el desarrollo y la implementación de los medios existentes que combina características de uno y otro para crear algo nuevo que no existía previamente, lo cual ha servido para entremezclar medios como la música, vídeo, datos, sonido, sensores, fotografía, animación dando lugar al fenómeno de la hibridación.
 
 Esta hibridación puede cambiar tanto a como se muestran los datos a la interactividad del propio medio. De esta forma, debido a la hibridación existen softwares que hibridan datos: mezclando el video con la animación, imágenes con textos, o incluso genera imagenes debido a textos o palabras que ha introducido el usuario previamente, entre muchos otros que aun quedan por descubrir...
 
-“En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.” Manovich, El Software toma el mando.
+
+> *“En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.” Manovich, El Software toma el mando.*
+
 
 Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos comenzar con los dos casos de hibridación mencionados en la introducción.
 
@@ -45,14 +49,17 @@ Si no has visto esta película (cosa que me hace pensar que eres un extraterrest
 
 ### AI's de Tiktok
 
-Para mayor contexto, Tiktok es una aplicación donde se pueden grabar videos o insertar imagénes los cuales tienen musica o voz insertada. Está aplicación es bastante usada por los jóvenes en la actualidad, y hace unas semanas hay un filtro bastante popular donde a través de un video, la propia aplicación crea una captura de este y creará basandose en la captura un dibujo.
+Para mayor contexto, Tiktok es una aplicación donde se pueden grabar videos o insertar imagénes los cuales tienen música o voz insertada. Está aplicación es bastante usada por los jóvenes en la actualidad, y hace unas semanas hay un filtro bastante popular donde a través de un video, la propia aplicación crea una captura de este y creará basandose en la captura un dibujo.
 
 Está inteligencia artificial es capaz de crear un dibujo a traves de la captura de un video
 
 > *Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)*
 > 
 
+Es un proyecto de IA de OpenIA (compañía situada en San Francisco), toma nombre de salvador Dalí y Wall.E (robot de Pixar). Empresa también creadora de GPT3, un modelo de lenguaje autorregresivo que emplea aprendizaje profundo para producir textos que simulan la redacción humana. Esta IA combina el lenguaje natural con el entrenamiento de las imágenes para crear algo totalmente nuevo. DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
+
 ## Bibliografia:
+
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
 - Adell, F. (2014). Remediación, multimedia e hibridación de los medios. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia, Universitat Oberta de Catalunya. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
