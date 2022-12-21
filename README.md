@@ -18,7 +18,7 @@ En primer lugar vamos a explicar que es la hibridación de los medios, para si p
 
 La hibridación, según Manovich, es el desarrollo y la implementación de los medios existentes que combina características de uno y otro para crear algo nuevo que no existía previamente, lo cual ha servido para entremezclar medios como la música, vídeo, datos, sonido, sensores, fotografía, animación dando lugar al fenómeno de la hibridación.
 
-Esta hibridación puede cambiar tanto a como se muestran los datos a la interactividad del propio medio. De esta forma, debido a la hibridación existen softwares que hibridan datos: mezclando el video con la animación, imágenes con textos, o incluso genera imagenes debido a textos o palabras que ha introducido el usuario previamente, entre muchos otros que aun quedan por descubrir...
+Esta hibridación puede cambiar tanto a como se muestran los datos a la interacción que tienen los usuarios con el medio. De esta forma, debido a la hibridación existen softwares que hibridan datos: mezclando el video con la animación, imágenes con textos, o incluso genera imagenes debido a textos o palabras que ha introducido el usuario previamente, entre muchos otros que aun quedan por descubrir...
 
 
 > *“En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.” Manovich, El Software toma el mando.*
