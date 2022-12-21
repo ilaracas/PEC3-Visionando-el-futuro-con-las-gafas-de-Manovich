@@ -14,6 +14,10 @@ En mi caso, he decidido escoger la película *Space Jam* de 1996, y la IA's de i
 
 
 ### Que es la hibridación?
+En primer lugar vamos a explicar que es la hibridación de los medios, para si poder entender adecuadamente el porqué vamos a ver a través de las “gafas de Manovich”.
+
+En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
+
 Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el "Medio ordenador" como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
 
 Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
