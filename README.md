@@ -27,7 +27,9 @@ Ahora que ya conocemos y hemos puesto a la hibridación en su contexto, podemos 
 
 ### Space jam.
 
-Space Jam, es una película de comedia animada/*live action* (
+Space Jam, es una película de comedia animada/*live action* (Se utiliza para referirse a obras en las que la imagen ha sido obtenida mediante la filmación directa de actores o elementos reales), en la cual una versión ficticia de Michel Jordanes reclutado por los personajes de Looney Tunes donde estos lo reclutan para ayudarlos en un partido de baloncesto contra los visitantes extraterrestres que intentan esclavizarlos como atracciones para su parque de atracciones.
+
+
 AI's tiktok
 
 En el caso de una hibridación, lo que obtenemos como resultado es un producto que combina características de uno y otro medio para crear algo nuevo, algo que no existía previamente como ocurre por ejemplo en el caso de las inteligencias artificiales que son capaces de generar imágenes a través de un texto que se le indique. Ésta no era una capacidad que poseyeran los medios tradicionales.
