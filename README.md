@@ -35,7 +35,7 @@ Space Jam, es una película de comedia deportiva animada/*live action* (Se utili
 
 *> La hibridación una fusión entre elementos que comparten técnicas de software e interfaces generando una experiencia nueva 
 y coherente, diferente a la experimentación de los elementos por separado - (Adell, 2014)
-> *
+
 
 
 De igual forma, en el año 2021, se creo una secuela de esta, llamada ahora, *Space Jam: A New Legacy*, donde esta vez, tenemos una hibridación de *live action* y animación 3D.
